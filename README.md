@@ -1,5 +1,5 @@
 # HTML-AND-CSS-PROJECTS
-This repository contains all coding project, exercises and practice files from my HTML and CSS Course with The Tech Academy
+This repository contains all coding project, exercises and practice files from my HTML and CSS Course with The Tech Academy.
 It serves as a central hub to track progrss, experiment with web design concepts and build a portfolio of front-end development work.
 ## Contents
 -Basic HTML structure projects
